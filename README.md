@@ -1,7 +1,14 @@
 perseids_treebanking
 ====================
 
-Repository for holding files related to student treebanking projects under Perseids
+Repository for holding files related to treebanking projects under Perseids.
+
+CTS_XML_TREEBANK contains treebank templates built from Perseus texts.
+
+sites contains html pages serving as entry points into the Perseids treebanking environment.
+
+transformations contains xslt and other transformations used to produce the templates.
+
 
 Tufts University holds the overall copyright to the Perseus Digital Library; the materials therein (including all texts, translations, images, descriptions, drawings, etc.) are provided for the personal use of students, scholars, and the public.
 
