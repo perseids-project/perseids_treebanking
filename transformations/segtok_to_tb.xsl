@@ -17,13 +17,13 @@
         <xsl:element name="treebank">
             <xsl:attribute name="xml:lang">
                 <xsl:choose>
-                    <xsl:when test="//tei:text[@xml:lang]"><xsl:value-of select="//tei:text[@xml:lang]"/></xsl:when>
+                    <xsl:when test="//tei:text[@xml:lang]"><xsl:value-of select="//tei:text/@xml:lang"/></xsl:when>
                     <xsl:otherwise><xsl:value-of select="$e_lang"/></xsl:otherwise>
                 </xsl:choose>
             </xsl:attribute>
             <xsl:attribute name="format"><xsl:value-of select="$e_format"/></xsl:attribute>
             <xsl:attribute name="version">1.5</xsl:attribute>
-            <xsl:apply-templates select="//tei:div[@subtype='section']"></xsl:apply-templates>
+            <xsl:apply-templates select="//tei:div[@subtype=$e_cite]"></xsl:apply-templates>
         </xsl:element>
     </xsl:template>
     
@@ -49,9 +49,10 @@
     </xsl:template>
     
     <xsl:template match="tei:w">
+
         <xsl:variable name="lang">
             <xsl:choose>
-                <xsl:when test="//tei:text[@xml:lang]"><xsl:value-of select="//tei:text[@xml:lang]"/></xsl:when>
+                <xsl:when test="//tei:text/@xml:lang"><xsl:value-of select="//tei:text/@xml:lang"/></xsl:when>
                 <xsl:otherwise><xsl:value-of select="$e_lang"/></xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
