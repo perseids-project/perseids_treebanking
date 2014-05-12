@@ -55,7 +55,12 @@
     
     <xsl:template match="/">
         <xsl:variable name="docuri">
-            <xsl:value-of select="encode-for-uri(concat($e_perseusBase,$e_urn))"></xsl:value-of>
+            <xsl:choose>
+                <xsl:when test="$e_cite">
+                    <xsl:value-of select="encode-for-uri(concat($e_perseusBase,$e_urn,':',$e_cite))"></xsl:value-of>
+                </xsl:when>
+                <xsl:otherwise><xsl:value-of select="encode-for-uri(concat($e_perseusBase,$e_urn))"></xsl:value-of></xsl:otherwise>
+            </xsl:choose>
         </xsl:variable>
         <xsl:variable name="teiignore">
             <xsl:for-each select="tokenize($e_ignore,',')">
