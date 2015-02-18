@@ -45,12 +45,19 @@
 			<xsd:sequence>
 				<xsd:element name="link" type="linkType" minOccurs="0" maxOccurs="unbounded"/>
 				<xsd:element name="date" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+				<xsd:element name="comment" type="xsd:anyType" minOccurs="0" maxOccurs="unbounded">
+					<xsd:annotation>
+						<xsd:documentation>
+							May be used to add document level comments and metadata.
+						</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 				<xsd:element name="annotator" type="annotatorType" minOccurs="0" maxOccurs="unbounded"/>
 				<xsd:element name="sentence" type="sentenceType" minOccurs="1" maxOccurs="unbounded"/>
 			</xsd:sequence>
 			<xsd:attribute name="version" type="xsd:decimal" use="required"/>
-			<xsd:attribute ref="xml:lang" use="optional"/>
-			<xsd:attribute name="format" type="xsd:string" use="optional"/>
+			<xsd:attribute ref="xml:lang" use="required"/>
+			<xsd:attribute name="format" type="xsd:string" use="required"/>
 			<xsd:attribute name="direction" type="xsd:string" use="optional"/>
 		</xsd:complexType>
 	</xsd:element>
