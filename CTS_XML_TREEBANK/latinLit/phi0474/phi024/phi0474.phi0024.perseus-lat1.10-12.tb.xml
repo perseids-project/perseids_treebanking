@@ -1,0 +1,1087 @@
+<treebank xmlns:saxon='http:&#x2F;&#x2F;saxon.sf.net&#x2F;' xml:lang='lat' format='harrington' version='1.5'>
+  <date>2015-11-13 15:53:43 +0000</date>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;services2.perseids.org&#x2F;llt&#x2F;segtok</uri>
+  </annotator>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>TimBuckingham</short>
+    <name>Tim Buckingham</name>
+    <address>Timothy.Buckingham@tufts.edu</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;TimBuckingham</uri>
+  </annotator>
+  <sentence id='1' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='itaque' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='illam' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='partem' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='causae' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='facile' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='patior' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='graviter' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='ornate' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='a' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='M.' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='Crasso' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='peroratam' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='seditionibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='Neapolitanis' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='18' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='Alexandrinorum' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='pulsatione' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='Puteolana' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='23' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='bonis' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='pallae' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='2' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='vellem' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='dictum' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='esset' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='ab' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='eodem' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='etiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='Dione' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='3' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='quo' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ipso' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='tamen' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='quid' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='quod' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='exspectetis' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='?' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='4' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='quod' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='is' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='fecit' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='aut' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='timet' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='aut' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='etiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='fatetur' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='5' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='enim' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='rex' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='6' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='autem' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='dictus' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='adiutor' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='fuisse' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='conscius' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='P.' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='Asicius' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='iudicio' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='liberatus' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='7' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='quod' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='igitur' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='eius' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='modi' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='crimen' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ut' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='commisit' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='neget' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='negavit' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='absolutus' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='sit' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='18' form='id' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='hic' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='pertimescat' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='modo' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='a' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='facti' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='verum' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='etiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='a' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='conscientiae' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='suspicio' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='-ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='afuit' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='?' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='8' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='3' form='si' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='Asicio' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='causa' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='plus' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='profuit' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='quam' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='nocuit' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='invidia' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='huic' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='oberit' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='maledictum' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='tuum' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='istius' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='facti' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='modo' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='suspicio' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='-ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='infamia' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='quidem' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='aspersus' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='?' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='9' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='at' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='praevaricatione' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='Asicius' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='liberatus' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='10' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='perfacile' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='isti' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='loco' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='respondere' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='mihi' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='praesertim' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='a' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='quo' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='illa' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='causa' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='defensa' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='11' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='Caelius' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='optimam' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='causam' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='Asici' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='esse' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='arbitratur' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='12' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='cuicuimodi' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='autem' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='sit' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='a' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='sua' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='putat' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='esse' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='seiunctam' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='13' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='-que' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='solum' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='Caelius' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='etiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='adulescentes' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='humanissimi' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='doctissimi' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='rectissimis' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='studiis' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='atque' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='optimis' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='artibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='praediti' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='19' form='Titus' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='Gaius' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='-que' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='Coponii' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='ex' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='omnibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='maxime' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='Dionis' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='mortem' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='doluerunt' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='31' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='cum' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='doctrinae' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form='studio' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='atque' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='humanitatis' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='tum' lemma='' postag='' relation='nil' head=''/>
+    <word id='38' form='etiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='39' form='hospitio' lemma='' postag='' relation='nil' head=''/>
+    <word id='40' form='Dionis' lemma='' postag='' relation='nil' head=''/>
+    <word id='41' form='tenebantur' lemma='' postag='' relation='nil' head=''/>
+    <word id='42' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='14' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='habitabat' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='apud' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='Titum' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='ut' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='audistis' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='8' form='Dio' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='erat' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ei' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='cognitus' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='Alexandriae' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='15' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='quid' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='aut' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='hic' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='aut' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='summo' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='splendore' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='praeditus' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='frater' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='eius' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='M.' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='Caelio' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='existimet' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ex' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='ipsis' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='17' form='si' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='producti' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='erunt' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='21' form='audietis' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='16' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='ergo' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='haec' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='removeantur' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='ut' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='aliquando' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='8' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='quibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='causa' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='nititur' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='ad' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='ea' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='veniamus' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='17' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='animadverti' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='enim' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='4' form='iudices' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='audiri' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='a' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='vobis' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='meum' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='familiarem' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='L.' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='Herennium' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='15' form='perattente' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='18' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='quo' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='etsi' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='magna' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ex' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='parte' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ingenio' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='eius' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='dicendi' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='genere' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='quodam' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='tenebamini' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='15' form='tamen' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='numquam' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='verebar' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='illa' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='subtiliter' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='ad' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='criminandum' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='inducta' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='oratio' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='ad' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='animos' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='vestros' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='sensim' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='ac' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='leniter' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='accederet' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='19' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='dixit' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='enim' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='multa' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='luxurie' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='multa' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='libidine' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='11' form='multa' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='vitiis' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='iuventutis' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='16' form='multa' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='moribus' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='21' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='reliqua' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='vita' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='mitis' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='esset' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='hac' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='suavitate' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='humanitatis' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='qua' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='prope' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form='iam' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='delectantur' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='omnes' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='versari' lemma='' postag='' relation='nil' head=''/>
+    <word id='38' form='periucunde' lemma='' postag='' relation='nil' head=''/>
+    <word id='39' form='soleret' lemma='' postag='' relation='nil' head=''/>
+    <word id='40' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='41' form='fuit' lemma='' postag='' relation='nil' head=''/>
+    <word id='42' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='43' form='hac' lemma='' postag='' relation='nil' head=''/>
+    <word id='44' form='causa' lemma='' postag='' relation='nil' head=''/>
+    <word id='45' form='pertristis' lemma='' postag='' relation='nil' head=''/>
+    <word id='46' form='quidam' lemma='' postag='' relation='nil' head=''/>
+    <word id='47' form='patruus' lemma='' postag='' relation='nil' head=''/>
+    <word id='48' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='49' form='censor' lemma='' postag='' relation='nil' head=''/>
+    <word id='50' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='51' form='magister' lemma='' postag='' relation='nil' head=''/>
+    <word id='52' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='20' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='obiurgavit' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='M.' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='Caelium' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='sicut' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='neminem' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='umquam' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='parens' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='21' document_id='' subdoc='' span=''>
+    <word id='1' form='multa' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='incontinentia' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='intemperantia' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='-que' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='disseruit' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='22' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='quid' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='quaeritis' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='4' form='iudices' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='?' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='23' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='ignoscebam' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='vobis' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='attente' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='audientibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='propterea' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='quod' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='egomet' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='tam' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='triste' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='illud' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='tam' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='asperum' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='genus' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='orationis' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='horrebam' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='24' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='ac' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='prima' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='pars' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='fuit' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='illa' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='quae' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='me' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='minus' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='movebat' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='11' form='fuisse' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='meo' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='necessario' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='Bestiae' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='Caelium' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='familiarem' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='18' form='cenasse' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='apud' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='eum' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='22' form='ventitasse' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='domum' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='25' form='studuisse' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='praeturae' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='25' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='me' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='haec' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='movent' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='quae' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='perspicue' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='falsa' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='sunt' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='26' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='etenim' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='eos' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='una' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='cenasse' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='dixit' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='aut' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='absunt' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='aut' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='quibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='necesse' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='idem' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='dicere' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='27' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='-que' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='vero' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='illud' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='me' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='commovet' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='quod' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='sibi' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='Lupercis' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='sodalem' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='esse' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='Caelium' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='dixit' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='28' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='fera' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='quaedam' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='sodalitas' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='plane' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='pastoricia' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='atque' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='agrestis' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='germanorum' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='Lupercorum' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='12' form='quorum' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='coitio' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='illa' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='silvestris' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='ante' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='instituta' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='quam' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='humanitas' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='atque' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='leges' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='24' form='si' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='quidem' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='modo' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='nomina' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='deferunt' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='inter' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='se' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='sodales' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form='etiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='commemorant' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='sodalitatem' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='38' form='accusando' lemma='' postag='' relation='nil' head=''/>
+    <word id='39' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='40' form='ut' lemma='' postag='' relation='nil' head=''/>
+    <word id='41' form='ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='42' form='quis' lemma='' postag='' relation='nil' head=''/>
+    <word id='43' form='id' lemma='' postag='' relation='nil' head=''/>
+    <word id='44' form='forte' lemma='' postag='' relation='nil' head=''/>
+    <word id='45' form='nesciat' lemma='' postag='' relation='nil' head=''/>
+    <word id='46' form='timere' lemma='' postag='' relation='nil' head=''/>
+    <word id='47' form='videantur' lemma='' postag='' relation='nil' head=''/>
+    <word id='48' form='!' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='29' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='haec' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='omitto' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='30' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='ad' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='illa' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='quae' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='me' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='magis' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='moverunt' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='respondeo' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='31' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='deliciarum' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='obiurgatio' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='fuit' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='longa' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='etiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='lenior' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='9' form='plus' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='-que' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='disputationis' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='habuit' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='quam' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='atrocitatis' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='16' form='quo' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='etiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='audita' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='attentius' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='32' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='nam' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='P.' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='Clodius' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='amicus' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='meus' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='8' form='cum' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='se' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='gravissime' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='vehementissime' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='-que' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='iactaret' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='omnia' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='inflammatus' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='ageret' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='tristissimis' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='verbis' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='21' form='voce' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='maxima' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='24' form='tametsi' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='probabam' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='eius' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='eloquentiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='29' form='tamen' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='pertimescebam' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='33' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='aliquot' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='enim' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='causis' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='eum' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='videram' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='frustra' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='litigantem' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='34' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='tibi' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='autem' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='4' form='Balbe' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='respondeo' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='primum' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='precario' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='si' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='licet' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='13' form='si' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='fas' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='defendi' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='a' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='me' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='eum' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='nullum' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='convivium' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='renuerit' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='25' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='hortis' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='fuerit' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='30' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='unguenta' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='sumpserit' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='34' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='Baias' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='viderit' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='35' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='equidem' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='multos' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='vidi' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='hac' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='civitate' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='audivi' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='11' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='modo' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='primoribus' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='labris' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='gustassent' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='genus' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='hoc' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='vitae' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='extremis' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='23' form='ut' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='dicitur' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='26' form='digitis' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='attigissent' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form='totam' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='adulescentiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='voluptatibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='dedidissent' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='35' form='emersisse' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='aliquando' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='38' form='se' lemma='' postag='' relation='nil' head=''/>
+    <word id='39' form='ad' lemma='' postag='' relation='nil' head=''/>
+    <word id='40' form='frugem' lemma='' postag='' relation='nil' head=''/>
+    <word id='41' form='bonam' lemma='' postag='' relation='nil' head=''/>
+    <word id='42' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='43' form='ut' lemma='' postag='' relation='nil' head=''/>
+    <word id='44' form='dicitur' lemma='' postag='' relation='nil' head=''/>
+    <word id='45' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='46' form='recepisse' lemma='' postag='' relation='nil' head=''/>
+    <word id='47' form='gravis' lemma='' postag='' relation='nil' head=''/>
+    <word id='48' form='-que' lemma='' postag='' relation='nil' head=''/>
+    <word id='49' form='homines' lemma='' postag='' relation='nil' head=''/>
+    <word id='50' form='atque' lemma='' postag='' relation='nil' head=''/>
+    <word id='51' form='inlustris' lemma='' postag='' relation='nil' head=''/>
+    <word id='52' form='fuisse' lemma='' postag='' relation='nil' head=''/>
+    <word id='53' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='36' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='datur' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='enim' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='concessu' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='omnium' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='huic' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='aliqui' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ludus' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='aetati' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ipsa' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='natura' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='profundit' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='adulescentiae' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='cupiditates' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='37' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='quae' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='si' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ita' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='erumpunt' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ut' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='nullius' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='vitam' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='labefactent' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='nullius' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='domum' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='evertant' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='14' form='faciles' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='tolerabiles' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='haberi' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='solent' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='38' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='tu' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='mihi' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='videbare' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ex' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='communi' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='infamia' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='iuventutis' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='aliquam' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='invidiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='Caelio' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='velle' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='conflare' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='39' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='itaque' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='omne' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='illud' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='silentium' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='quod' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='orationi' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='tributum' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='tuae' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='fuit' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='ob' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='eam' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='causam' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='quod' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='uno' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='reo' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='proposito' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='multorum' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='vitiis' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='cogitabamus' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='40' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='facile' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='accusare' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='luxuriem' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='41' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='dies' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='iam' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='me' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='deficiat' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='si' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='quae' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='dici' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='eam' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='sententiam' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='possunt' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='coner' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='expromere' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='42' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='corruptelis' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='4' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='adulteriis' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='protervitate' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='de' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='sumptibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='immensa' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='oratio' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='43' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='Vt' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='tibi' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='reum' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='neminem' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='vitia' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='ista' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='proponas' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='10' form='res' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='tamen' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ipsa' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='copiose' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='graviter' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='accusari' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='potest' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='44' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='vestrae' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='sapientiae' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='iudices' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='7' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='abduci' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='ab' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='reo' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='-c' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='15' form='quos' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='aculeos' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='habeat' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='severitas' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form='gravitas' lemma='' postag='' relation='nil' head=''/>
+    <word id='20' form='-que' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='vestra' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='23' form='cum' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form='eos' lemma='' postag='' relation='nil' head=''/>
+    <word id='25' form='accusator' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='erexerit' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='rem' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='30' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='31' form='vitia' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='33' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form='mores' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='36' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='tempora' lemma='' postag='' relation='nil' head=''/>
+    <word id='38' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='39' form='emittere' lemma='' postag='' relation='nil' head=''/>
+    <word id='40' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='41' form='hominem' lemma='' postag='' relation='nil' head=''/>
+    <word id='42' form='et' lemma='' postag='' relation='nil' head=''/>
+    <word id='43' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='44' form='reum' lemma='' postag='' relation='nil' head=''/>
+    <word id='45' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='46' form='cum' lemma='' postag='' relation='nil' head=''/>
+    <word id='47' form='is' lemma='' postag='' relation='nil' head=''/>
+    <word id='48' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='49' form='suo' lemma='' postag='' relation='nil' head=''/>
+    <word id='50' form='crimi' lemma='' postag='' relation='nil' head=''/>
+    <word id='51' form='-ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='52' form='sed' lemma='' postag='' relation='nil' head=''/>
+    <word id='53' form='multorum' lemma='' postag='' relation='nil' head=''/>
+    <word id='54' form='vitio' lemma='' postag='' relation='nil' head=''/>
+    <word id='55' form='sit' lemma='' postag='' relation='nil' head=''/>
+    <word id='56' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='57' form='quoddam' lemma='' postag='' relation='nil' head=''/>
+    <word id='58' form='odium' lemma='' postag='' relation='nil' head=''/>
+    <word id='59' form='iniustum' lemma='' postag='' relation='nil' head=''/>
+    <word id='60' form='vocatus' lemma='' postag='' relation='nil' head=''/>
+    <word id='61' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='45' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='itaque' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ego' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='severitati' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='tuae' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='ita' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='ut' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='oportet' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='respondere' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='audeo' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='46' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='erat' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='enim' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='meum' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='deprecari' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='vacationem' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='adulescentiae' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='veniam' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='-que' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='petere' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='47' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='3' form='inquam' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='audeo' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='48' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='perfugiis' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='nihil' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='utor' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='aetatis' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='6' form='concessa' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='omnibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='iura' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='dimitto' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='49' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='tantum' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='peto' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='ut' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='5' form='si' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='qua' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='est' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='invidia' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='communis' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='hoc' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='tempore' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='aeris' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='alieni' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='15' form='petulantiae' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='17' form='libidinum' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='iuventutis' lemma='' postag='' relation='nil' head=''/>
+    <word id='19' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='20' form='quam' lemma='' postag='' relation='nil' head=''/>
+    <word id='21' form='video' lemma='' postag='' relation='nil' head=''/>
+    <word id='22' form='esse' lemma='' postag='' relation='nil' head=''/>
+    <word id='23' form='magnam' lemma='' postag='' relation='nil' head=''/>
+    <word id='24' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='25' form='tamen' lemma='' postag='' relation='nil' head=''/>
+    <word id='26' form='ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='27' form='huic' lemma='' postag='' relation='nil' head=''/>
+    <word id='28' form='aliena' lemma='' postag='' relation='nil' head=''/>
+    <word id='29' form='peccata' lemma='' postag='' relation='nil' head=''/>
+    <word id='30' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
+    <word id='31' form='ne' lemma='' postag='' relation='nil' head=''/>
+    <word id='32' form='aetatis' lemma='' postag='' relation='nil' head=''/>
+    <word id='33' form='ac' lemma='' postag='' relation='nil' head=''/>
+    <word id='34' form='temporum' lemma='' postag='' relation='nil' head=''/>
+    <word id='35' form='vitia' lemma='' postag='' relation='nil' head=''/>
+    <word id='36' form='noceant' lemma='' postag='' relation='nil' head=''/>
+    <word id='37' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+  <sentence id='50' document_id='https://raw.githubusercontent.com/perseids-project/perseids_treebanking/master/CTS_XML_TREEBANK/latinLit/phi0474/phi024/phi0474.phi024.perseus-lat1.10-12.tb.xml' subdoc='' span=''>
+    <word id='1' form='atque' lemma='' postag='' relation='nil' head=''/>
+    <word id='2' form='ego' lemma='' postag='' relation='nil' head=''/>
+    <word id='3' form='idem' lemma='' postag='' relation='nil' head=''/>
+    <word id='4' form='qui' lemma='' postag='' relation='nil' head=''/>
+    <word id='5' form='haec' lemma='' postag='' relation='nil' head=''/>
+    <word id='6' form='postulo' lemma='' postag='' relation='nil' head=''/>
+    <word id='7' form='quin' lemma='' postag='' relation='nil' head=''/>
+    <word id='8' form='criminibus' lemma='' postag='' relation='nil' head=''/>
+    <word id='9' form='quae' lemma='' postag='' relation='nil' head=''/>
+    <word id='10' form='in' lemma='' postag='' relation='nil' head=''/>
+    <word id='11' form='hunc' lemma='' postag='' relation='nil' head=''/>
+    <word id='12' form='proprie' lemma='' postag='' relation='nil' head=''/>
+    <word id='13' form='conferuntur' lemma='' postag='' relation='nil' head=''/>
+    <word id='14' form='diligentissime' lemma='' postag='' relation='nil' head=''/>
+    <word id='15' form='respondeam' lemma='' postag='' relation='nil' head=''/>
+    <word id='16' form='non' lemma='' postag='' relation='nil' head=''/>
+    <word id='17' form='recuso' lemma='' postag='' relation='nil' head=''/>
+    <word id='18' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
+  </sentence>
+</treebank>
