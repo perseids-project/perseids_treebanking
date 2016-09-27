@@ -191,6 +191,11 @@
         <short>p</short>
         <long>participle</long>
       </entry>
+      <entry>
+        <category>mood</category>
+        <short>u</short>
+        <long>supine</long>
+      </entry>
 
       <!-- voice -->
       <entry>
